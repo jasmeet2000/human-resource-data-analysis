@@ -11,3 +11,7 @@
 - **Skills**: BigQuery ML, SQL, Looker Studio, Jupyter Notebook, Algorithm Evaluation, Data Visualization.
   
 - **Outcomes**: Identified BigQuery ML's efficiency, algorithm variances, and considerations for scalable machine learning tasks.
+
+Link for the presentation video: 
+
+https://youtu.be/lJFwDZiThi4 
